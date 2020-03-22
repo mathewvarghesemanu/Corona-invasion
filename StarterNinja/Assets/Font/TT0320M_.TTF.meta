@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 783cc7fdd5da78d4a981fddc819feba6
+timeCreated: 1473960108
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - News701 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 524aaa1f96595bc46a4710b5b684dfd4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
