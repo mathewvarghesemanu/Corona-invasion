@@ -10,6 +10,7 @@ public class GameController : MonoBehaviour {
 	public Canvas gameOverCanvas;
 	public Text highscore;
 	public Text starno;
+	
 
 
 	private int _currScore;
@@ -62,6 +63,7 @@ public class GameController : MonoBehaviour {
 	/// <param name="didIWin">Did the playeer win?</param>	
 	public void GameOver(bool didIWin) {
 		isGameOver = true;
+		
 		// We'll be using this more later. I know this looks pointless now.
 		_didIWin = didIWin;
 		gameOverTxt.text = (_didIWin) ? "Congrats :)" : "They got in!!!";

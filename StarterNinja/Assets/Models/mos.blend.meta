@@ -14,6 +14,22 @@ ModelImporter:
     100016: Camera
     100018: Lamp
     100020: Mosquito
+    100022: Light
+    100024: V3 solid virus
+    100026: V3 solid virus_MeshPart0
+    100028: V3 solid virus_MeshPart1
+    100030: V3 solid virus_MeshPart2
+    100032: V3 solid virus_MeshPart3
+    100034: V3 solid virus_MeshPart4
+    100036: V3 solid virus_MeshPart5
+    100038: Mosquitos
+    100040: Mosquitos_MeshPart0
+    100042: Mosquitos_MeshPart1
+    100044: Mosquitos_MeshPart2
+    100046: Mosquitos_MeshPart3
+    100048: Mosquitos_MeshPart4
+    100050: Mosquitos_MeshPart5
+    100052: Mosquitos_MeshPart6
     400000: //RootNode
     400002: Mosquito_MeshPart0
     400004: Mosquito_MeshPart1
@@ -25,6 +41,22 @@ ModelImporter:
     400016: Camera
     400018: Lamp
     400020: Mosquito
+    400022: Light
+    400024: V3 solid virus
+    400026: V3 solid virus_MeshPart0
+    400028: V3 solid virus_MeshPart1
+    400030: V3 solid virus_MeshPart2
+    400032: V3 solid virus_MeshPart3
+    400034: V3 solid virus_MeshPart4
+    400036: V3 solid virus_MeshPart5
+    400038: Mosquitos
+    400040: Mosquitos_MeshPart0
+    400042: Mosquitos_MeshPart1
+    400044: Mosquitos_MeshPart2
+    400046: Mosquitos_MeshPart3
+    400048: Mosquitos_MeshPart4
+    400050: Mosquitos_MeshPart5
+    400052: Mosquitos_MeshPart6
     2300000: Mosquito_MeshPart0
     2300002: Mosquito_MeshPart1
     2300004: Mosquito_MeshPart2
@@ -32,6 +64,19 @@ ModelImporter:
     2300008: Mosquito_MeshPart4
     2300010: Mosquito_MeshPart5
     2300012: Mosquito_MeshPart6
+    2300014: V3 solid virus_MeshPart0
+    2300016: V3 solid virus_MeshPart1
+    2300018: V3 solid virus_MeshPart2
+    2300020: V3 solid virus_MeshPart3
+    2300022: V3 solid virus_MeshPart4
+    2300024: V3 solid virus_MeshPart5
+    2300026: Mosquitos_MeshPart0
+    2300028: Mosquitos_MeshPart1
+    2300030: Mosquitos_MeshPart2
+    2300032: Mosquitos_MeshPart3
+    2300034: Mosquitos_MeshPart4
+    2300036: Mosquitos_MeshPart5
+    2300038: Mosquitos_MeshPart6
     3300000: Mosquito_MeshPart0
     3300002: Mosquito_MeshPart1
     3300004: Mosquito_MeshPart2
@@ -39,6 +84,19 @@ ModelImporter:
     3300008: Mosquito_MeshPart4
     3300010: Mosquito_MeshPart5
     3300012: Mosquito_MeshPart6
+    3300014: V3 solid virus_MeshPart0
+    3300016: V3 solid virus_MeshPart1
+    3300018: V3 solid virus_MeshPart2
+    3300020: V3 solid virus_MeshPart3
+    3300022: V3 solid virus_MeshPart4
+    3300024: V3 solid virus_MeshPart5
+    3300026: Mosquitos_MeshPart0
+    3300028: Mosquitos_MeshPart1
+    3300030: Mosquitos_MeshPart2
+    3300032: Mosquitos_MeshPart3
+    3300034: Mosquitos_MeshPart4
+    3300036: Mosquitos_MeshPart5
+    3300038: Mosquitos_MeshPart6
     4300000: Mosquito_MeshPart0
     4300002: Mosquito_MeshPart1
     4300004: Mosquito_MeshPart2
@@ -46,6 +104,19 @@ ModelImporter:
     4300008: Mosquito_MeshPart4
     4300010: Mosquito_MeshPart5
     4300012: Mosquito_MeshPart6
+    4300014: V3 solid virus_MeshPart0
+    4300016: V3 solid virus_MeshPart1
+    4300018: V3 solid virus_MeshPart2
+    4300020: V3 solid virus_MeshPart3
+    4300022: V3 solid virus_MeshPart4
+    4300024: V3 solid virus_MeshPart5
+    4300026: Mosquitos_MeshPart0
+    4300028: Mosquitos_MeshPart1
+    4300030: Mosquitos_MeshPart2
+    4300032: Mosquitos_MeshPart3
+    4300034: Mosquitos_MeshPart4
+    4300036: Mosquitos_MeshPart5
+    4300038: Mosquitos_MeshPart6
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -53,13 +124,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 36f1a9f17bd34fb4b85874fa7f267aaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: No Name
-    second: {fileID: 2100000, guid: 7ef102668be78c2488313969f4ccadcd, type: 2}
+    second: {fileID: 2100000, guid: bce0cd8cdfffc2a41b798316325a24d2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -85,11 +161,11 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
-    meshCompression: 0
+    globalScale: 0.03
+    meshCompression: 3
     addColliders: 0
     useSRGBMaterialColor: 1
-    importVisibility: 0
+    importVisibility: 1
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
@@ -106,7 +182,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
+    previousCalculatedGlobalScale: 0.03
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60

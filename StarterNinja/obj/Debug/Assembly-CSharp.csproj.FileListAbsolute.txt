@@ -1,0 +1,63 @@
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEditor.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEngine.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEngine.xml
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEditor.xml
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\obj\Debug\Assembly-CSharp.dll
+C:\Users\admin\Desktop\Work\StarterNinja\StarterNinja\obj\Debug\Assembly-CSharp.pdb
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\obj\Debug\Assembly-CSharp.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\obj\Debug\Assembly-CSharp.pdb
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEditor.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEngine.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEngine.xml
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEditor.xml
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\admin\Desktop\Work\StarterNinja - Copy\StarterNinja\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Assembly-CSharp.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEditor.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEngine.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEngine.UI.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Mono.Cecil.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Unity.DataContract.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Unity.CecilTools.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEngine.xml
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEditor.xml
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEngine.UI.xml
+G:\work\Unity\StarterNinja\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\work\Unity\StarterNinja\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\work\Unity\StarterNinja\obj\Debug\Assembly-CSharp.dll
+G:\work\Unity\StarterNinja\obj\Debug\Assembly-CSharp.pdb

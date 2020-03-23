@@ -16,6 +16,7 @@ public class EnemyMover : MonoBehaviour {
 		_state = EnemyState.Normal;
 		float thisSpeed = Random.Range(speedMin, speedMax);
 		this.GetComponent<Rigidbody>().velocity = transform.forward * thisSpeed;
+		this.GetComponent<Rigidbody>().angularVelocity = this.transform.forward * thisSpeed;
 	}
 	
 	
@@ -35,10 +36,11 @@ public class EnemyMover : MonoBehaviour {
 	public void DieSoon() {
 		if (_state == EnemyState.Normal) {
 			// Let's let the enemy get knocked back a bit.
+			this.GetComponent<AudioSource>().Play();
 			_state = EnemyState.Dying;
 			GameController gameController = FindObjectOfType<GameController>();
 			gameController.GotOne();
-			this.GetComponent<AudioSource>().Play();
+		
 			Destroy(gameObject, 1.5f);
 		}
 	}

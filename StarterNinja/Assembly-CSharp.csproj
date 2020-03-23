@@ -69,6 +69,7 @@
      <Compile Include="Assets\Scripts\rotate.cs" />
      <Compile Include="Assets\Scripts\YouLoseIfEnemyHitsThis.cs" />
      <Compile Include="Assets\tap.cs" />
+     <None Include="Assets\laxer tree pkg\README.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/MATHE/Documents/GitHub/Quitto/StarterNinja/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
